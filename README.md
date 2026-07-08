@@ -31,6 +31,7 @@ lostness-guide/
 ├── context/       # 核心命題、目標讀者、風格、術語
 ├── materials/     # 素材庫：故事、觀察、筆記
 ├── framework/     # 核心框架：道術勢器、鬆開看清行動接住等
+├── references/    # 外部參考資料庫（git submodule）
 ├── decisions/     # 架構決策記錄（ADR）
 ├── backlog/       # 待補問題、待辦事項、缺少素材
 └── prompts/       # 給 AI 的寫作提示詞模板

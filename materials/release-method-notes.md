@@ -7,6 +7,15 @@
 
 > 這裡整理與釋放法（Release Method / Sedona Method）相關的筆記與素材。
 
+## 外部參考資料
+
+此 repo 已將 `references/6-steps` 加入為 git submodule，指向：
+
+- GitHub: https://github.com/deng-bowen/6-steps
+- 內容：六步驟（Six Steps to Freedom）相關文章，含 Kam Bakhsh 信件、風談六步驟連載、原始釋放法教學等
+
+後續在補強本檔案時，可直接引用 `references/6-steps/` 下的文章。
+
 ## 釋放法在本書中的定位
 
 釋放法是《迷茫指南》中的一個重要工具，但不是全書的核心。
@@ -41,3 +50,4 @@
 - [ ] 作者的使用經驗記錄
 - [ ] 書中如何使用釋放法（具體到哪些章節、怎麼用）
 - [ ] 釋放法與其他方法的對照
+- [ ] 參考 references/6-steps/ 整理關鍵概念
