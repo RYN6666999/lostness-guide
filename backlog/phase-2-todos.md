@@ -1,7 +1,7 @@
 # Phase 2：素材整併與補強
 
 > 最後更新：2026-07-08
-> 狀態：P1 任務 1-6 已完成，7-10 待補
+> 狀態：P1 任務全數完成，進入 P2
 
 ---
 
@@ -17,10 +17,10 @@
 4. [x] 補強 `materials/release-method-notes.md`（基本概念、核心操作、作者接觸經驗）
 5. [x] 建立 `materials/story-index.md`（故事索引表）
 6. [x] 建立 `materials/concept-chapter-map.md`（概念到章節對照表）
-7. [ ] 建立 `materials/quote-index.md`（金句索引表 —— 注意與既有 `materials/quotes-and-golden-lines.md` 的關係，避免重複）
-8. [ ] 補強每章的「可用素材」
-9. [ ] 標記哪些素材適合公開，哪些需要去識別化（`backlog/privacy-review.md` 已建立框架，案例層仍待逐條標記）
-10. [ ] 整理素材來源與可信度
+7. [x] 建立金句索引 —— 決定不開新檔，改在 `materials/quotes-and-golden-lines.md` 內新增「章節索引」表，避免與既有金句庫重複
+8. [x] 補強每章的「可用素材」—— Phase 1 已在每章骨架建好此欄位，本輪確認內容與新素材對齊，並更新 ch3 待補問題
+9. [x] 標記哪些素材適合公開，哪些需要去識別化 —— `backlog/privacy-review.md` 逐案評估完成，僅剩「試藥人經歷是否可公開」待作者明確同意
+10. [x] 整理素材來源與可信度 —— 外部數據已標明來源（內政部、主計總處、Numbeo），個人故事標明「作者自述」，見 story-index.md 與 privacy-review.md
 
 ## P2 任務
 
