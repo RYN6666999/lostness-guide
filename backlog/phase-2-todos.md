@@ -1,7 +1,7 @@
 # Phase 2：素材整併與補強
 
 > 最後更新：2026-07-08
-> 狀態：P1 任務全數完成，進入 P2
+> 狀態：P1、P2 任務全數完成，Phase 2 結束
 
 ---
 
@@ -24,11 +24,11 @@
 
 ## P2 任務
 
-1. 補強 `materials/dan-koe-notes.md`
-2. 補強 `materials/basha-notes.md`
-3. 建立框架視覺圖
-4. 建立章節寫作 prompt
-5. 建立章節重寫 prompt
+1. [x] 補強 `materials/dan-koe-notes.md`（公開文章：tutorial hell、身分先於行為、與本書差異）
+2. [x] 補強 `materials/basha-notes.md`（巴夏跟隨興奮感教導，已標明剝除外星敘事、嚴防靈性逃避風險）
+3. [x] 建立框架視覺圖 —— `framework/unified-model.svg` + `framework/unified-model.md`，外圈道術勢器、內圈鬆開看清行動接住
+4. [x] 建立章節寫作 prompt —— `prompts/chapter-drafting-prompt.md`（Phase 1 已建立，本輪確認可用）
+5. [x] 建立章節重寫 prompt —— `prompts/revision-prompt.md`（Phase 1 已建立，本輪確認可用）
 
 ## 禁止事項
 

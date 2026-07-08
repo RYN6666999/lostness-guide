@@ -1,0 +1,54 @@
+<svg viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="320" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#222">迷茫指南 — 統一校準模型</text>
+  <text x="320" y="60" text-anchor="middle" font-size="14" fill="#666">外圈：結構診斷（道術勢器）／內圈：校準循環（鬆開看清行動接住）</text>
+
+  <!-- Outer ring quadrants -->
+  <g stroke="#999" stroke-width="1.5" fill="none">
+    <circle cx="320" cy="340" r="240"/>
+    <circle cx="320" cy="340" r="140"/>
+    <line x1="320" y1="100" x2="320" y2="580"/>
+    <line x1="80" y1="340" x2="560" y2="340"/>
+  </g>
+
+  <!-- Outer labels: 道(top) 術(right) 器(bottom) 勢(left) -->
+  <text x="320" y="130" text-anchor="middle" font-size="26" font-weight="bold" fill="#8a4b08">道</text>
+  <text x="320" y="150" text-anchor="middle" font-size="12" fill="#8a4b08">底層心法</text>
+
+  <text x="530" y="336" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a5c8a">術</text>
+  <text x="530" y="356" text-anchor="middle" font-size="12" fill="#1a5c8a">具體方法</text>
+
+  <text x="320" y="562" text-anchor="middle" font-size="26" font-weight="bold" fill="#3a7d2c">器</text>
+  <text x="320" y="540" text-anchor="middle" font-size="12" fill="#3a7d2c">承接能力</text>
+
+  <text x="110" y="336" text-anchor="middle" font-size="26" font-weight="bold" fill="#7a2c8a">勢</text>
+  <text x="110" y="356" text-anchor="middle" font-size="12" fill="#7a2c8a">世界的流</text>
+
+  <!-- Inner cycle quadrants -->
+  <text x="320" y="235" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">鬆開</text>
+  <text x="430" y="345" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">行動</text>
+  <text x="320" y="450" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">接住</text>
+  <text x="210" y="345" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">看清</text>
+
+  <!-- Cycle arrows (curved, clockwise) -->
+  <g stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path d="M 365 260 A 100 100 0 0 1 400 385"/>
+    <path d="M 400 400 A 100 100 0 0 1 275 425"/>
+    <path d="M 260 415 A 100 100 0 0 1 240 290"/>
+    <path d="M 250 275 A 100 100 0 0 1 360 250"/>
+  </g>
+
+  <!-- Center label -->
+  <circle cx="320" cy="340" r="45" fill="#f5f0e6" stroke="#999"/>
+  <text x="320" y="335" text-anchor="middle" font-size="13" fill="#444">迷茫是</text>
+  <text x="320" y="352" text-anchor="middle" font-size="13" fill="#444">系統失準</text>
+
+  <!-- Footnote -->
+  <text x="320" y="610" text-anchor="middle" font-size="12" fill="#777">看清同時對應知己（道）與知彼（勢），此圖簡化置於勢側；詳見 framework/unified-model.md</text>
+</svg>
