@@ -1,3 +1,6 @@
 [submodule "references/6-steps"]
 	path = references/6-steps
 	url = https://github.com/deng-bowen/6-steps
+[submodule "references/releasing-book"]
+	path = references/releasing-book
+	url = https://github.com/rolence2025-cpu/releasing-book
