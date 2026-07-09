@@ -12,6 +12,13 @@
 
 完整版見 [`context/core-thesis.md`](context/core-thesis.md)。
 
+## Repo 深度（不要被「骨架階段」騙了）
+
+十章雖然還沒寫正文，但底層的施工藍圖已經很完整：
+
+- [`materials/concept-chapter-map.md`](materials/concept-chapter-map.md) — 20 個核心概念對照到章節、可用故事、禁止偏移，是全書真正的施工藍圖
+- [`materials/observed-people.md`](materials/observed-people.md) — 七型迷茫人物原型（小白／窮業務／亂投資／高薪受雇／接案高薪／受害者／信徒），是書中人物故事與案例的分類骨架
+
 ## 這是一本怎樣的書
 
 《迷茫指南》不是一本教人找夢想、設目標、時間管理、正能量或成功學的書。
